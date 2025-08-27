@@ -29,6 +29,17 @@ public class Ejercicio2 {
         System.out.print("Elige una opción 1 o 2: ");
         manodeObra = sc.nextInt();
         
+        
+        int totalLadrillos = metro * 45;
+        
+        totalLadrillo >= 200 y tipoLadrillo == A ó B
+                
+        verdadero 5% descuento para ladrillo A y B
+                
+        falso es porque es tipo C
+                
+        
+        
         sc.close();
     }
     

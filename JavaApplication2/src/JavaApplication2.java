@@ -10,7 +10,7 @@ public class JavaApplication2 {
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Ingrese un número entero X: ");
-        5
+        
         int X = sc.nextInt();
         
         double Y;

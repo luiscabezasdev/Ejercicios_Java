@@ -1,0 +1,5 @@
+run:
+Ingrese un número entero X: 
+ 5
+El valor de Y es: 20.0
+BUILD SUCCESSFUL (total time: 10 seconds)

@@ -1,0 +1,18 @@
+Ejercicio
+
+Para la fabricación de una pared, el contratista requiere calcular el costo total de la misma teniendo en cuenta el tamaño de la pared (en metros cuadrados), el tipo de ladrillo que va a utilizar y la mano de obra a usar. Se requieren 45 ladrillos para construir 1 metro cuadrado de pared. Y el costo de cada ladrillo depende del tipo, así:
+
+Tipo de ladrillo	Valor de cada ladrillo
+A	$3500
+B	$2900
+C	$2300
+
+El proveedor de ladrillo otorga un descuento del 5% por compras superiores a 200 ladrillos en clase A y B, mas no en clase C. Se puede contratar mano de obra calificada o común. La mano de obra calificada cobra $15000 por cada metro de pared y la mano de obra común cobra $12000 por cada metro de pared. En los casos en que se usa mano de obra común, se debe aplicar un incremento del 15% en el valor total debido a desperfectos originados por el trabajo.
+
+Prueba
+
+pared = 35 metros cuadrados, ladrillo B, mano obra calificada.
+
+pared = 35 metros cuadrados, ladrillo C, mano obra común.
+
+pared = 35 metros cuadrados, ladrillo A, mano obra calificada.

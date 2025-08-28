@@ -37,6 +37,17 @@ public class Ejercicio2 {
         verdadero 5% descuento para ladrillo A y B
                 
         falso es porque es tipo C
+        
+        No tiene descuento porque es tipo C
+                
+        Mano de obra calificada
+        metros * 15000
+        
+        no tiene un descuento
+                
+        Mano de obra comun
+        metros * 12000
+        y se le agrega un sobre costo del 15%        
                 
         
         
